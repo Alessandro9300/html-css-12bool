@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+[class*="col-"]{
+  background: pink;
+  border: solid 1px;
+  min-height: 100px;
+  padding-top: 40px;
+}
+
+.container{
+  margin-top: 100px;
+}
+
+.nested{
+  min-height: 96px;
+  background-color: #ffffff61;
+}
+.nest{
+  padding: 1px;
+}
