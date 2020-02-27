@@ -30,7 +30,7 @@
 .col-12{width: calc((100% / 12)*12);}
 
 
-/* dimensione margini */
+/* dimensione margini right*/
 
 .col-offset-1{margin-right: calc((100% / 12)*1)}
 .col-offset-2{margin-right: calc((100% / 12)*2)}
@@ -44,3 +44,18 @@
 .col-offset-10{margin-right: calc((100% / 12)*10)}
 .col-offset-11{margin-right: calc((100% / 12)*11)}
 .col-offset-12{margin-right: calc((100% / 12)*12)}
+
+/* margin left */
+
+.col-offleft-1{margin-left: calc((100% / 12)*1)}
+.col-offleft-2{margin-left: calc((100% / 12)*2)}
+.col-offleft-3{margin-left: calc((100% / 12)*3)}
+.col-offleft-4{margin-left: calc((100% / 12)*4)}
+.col-offleft-5{margin-left: calc((100% / 12)*5)}
+.col-offleft-6{margin-left: calc((100% / 12)*6)}
+.col-offleft-7{margin-left: calc((100% / 12)*7)}
+.col-offleft-8{margin-left: calc((100% / 12)*8)}
+.col-offleft-9{margin-left: calc((100% / 12)*9)}
+.col-offleft-10{margin-left: calc((100% / 12)*10)}
+.col-offleft-11{margin-left: calc((100% / 12)*11)}
+.col-offleft-12{margin-left: calc((100% / 12)*12)}
